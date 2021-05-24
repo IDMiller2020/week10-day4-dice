@@ -1,0 +1,16 @@
+C:\source\codeworks\week10\day4\morning\dice\bin\Debug\net5.0\dice.exe
+C:\source\codeworks\week10\day4\morning\dice\bin\Debug\net5.0\dice.deps.json
+C:\source\codeworks\week10\day4\morning\dice\bin\Debug\net5.0\dice.runtimeconfig.json
+C:\source\codeworks\week10\day4\morning\dice\bin\Debug\net5.0\dice.runtimeconfig.dev.json
+C:\source\codeworks\week10\day4\morning\dice\bin\Debug\net5.0\dice.dll
+C:\source\codeworks\week10\day4\morning\dice\bin\Debug\net5.0\ref\dice.dll
+C:\source\codeworks\week10\day4\morning\dice\bin\Debug\net5.0\dice.pdb
+C:\source\codeworks\week10\day4\morning\dice\obj\Debug\net5.0\dice.csprojAssemblyReference.cache
+C:\source\codeworks\week10\day4\morning\dice\obj\Debug\net5.0\dice.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\week10\day4\morning\dice\obj\Debug\net5.0\dice.AssemblyInfoInputs.cache
+C:\source\codeworks\week10\day4\morning\dice\obj\Debug\net5.0\dice.AssemblyInfo.cs
+C:\source\codeworks\week10\day4\morning\dice\obj\Debug\net5.0\dice.csproj.CoreCompileInputs.cache
+C:\source\codeworks\week10\day4\morning\dice\obj\Debug\net5.0\dice.dll
+C:\source\codeworks\week10\day4\morning\dice\obj\Debug\net5.0\ref\dice.dll
+C:\source\codeworks\week10\day4\morning\dice\obj\Debug\net5.0\dice.pdb
+C:\source\codeworks\week10\day4\morning\dice\obj\Debug\net5.0\dice.genruntimeconfig.cache
